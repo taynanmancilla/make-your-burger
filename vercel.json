@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "builds": [
+    {
+      "src": "path/to/your/frontend",
+      "use": "@vercel/static-build"
+    },
+    {
+      "src": "path/to/your/backend",
+      "use": "@vercel/node",
+      "config": {
+        "maxLambdaSize": "1024mb", // Adjust as needed
+        "memory": 1024 // Adjust as needed
+      }
+    }
+  ]
+}
