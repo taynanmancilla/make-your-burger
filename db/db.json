@@ -98,35 +98,6 @@
         "Cheddar"
       ],
       "status": "Solicitado"
-    },
-    {
-      "id": "9b92",
-      "nome": "cawccc",
-      "carne": "Maminha",
-      "pao": "3 Queijos",
-      "opcionais": [
-        "Bacon"
-      ],
-      "status": "Solicitado"
-    },
-    {
-      "id": "302e",
-      "nome": "asdf",
-      "carne": "Alcatra",
-      "pao": "Parmesão e Orégano",
-      "opcionais": [
-        "Bacon",
-        "Tomate"
-      ],
-      "status": "Solicitado"
-    },
-    {
-      "id": "7902",
-      "nome": "Mathias",
-      "carne": "Veggie burger",
-      "pao": "Integral",
-      "opcionais": [],
-      "status": "Solicitado"
     }
   ]
 }
